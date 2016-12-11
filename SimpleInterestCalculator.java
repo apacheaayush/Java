@@ -1,8 +1,7 @@
 /*
  * File: SimpleInterestCalculator
  * --------------------------------
- * This program calculates Balance after one and two year (compounded) on a starting Balance 
- * for a given Interest rate.
+ * This program calculates Balance after one and two year (compounded) on a starting Balance for a given Interest rate.
  */
 
 import acm.program.*;
