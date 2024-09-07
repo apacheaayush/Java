@@ -1,4 +1,4 @@
-My Java Coding Journey
+**My Java Coding Journey**
 
 Welcome to my Java repository! This is where it all began—my journey into coding started on 24th November 2016, inspired by the "Programming Methodology" lecture series from Stanford University, taught by Professor Mehran Sahami.
 
